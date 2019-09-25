@@ -1,0 +1,49 @@
+img{
+    width: 500px;
+    margin: auto;
+}
+body{
+    background-color: #cabfb6;
+}
+div{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 100px;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.link{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.link a{
+    color: black;
+    width: 150px;
+    background-color: #c9793b;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+button{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+.android{
+    background-color: #a4c93b;
+    padding: 5px 30px;
+}
+h2{
+    font-family: 'Proza Libre', sans-serif;
+}
+.apple{
+    background-color: #b6bcca;
+    padding: 5px 35px;
+}
+a:hover{
+    border: 2px solid black;
+}
+
